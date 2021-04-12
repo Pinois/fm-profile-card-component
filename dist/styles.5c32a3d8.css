@@ -1,0 +1,81 @@
+body {
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: #19a2ae;
+  background-repeat: no-repeat;
+  background-position: -35vw -60vh, 65vw 50vh;
+  background-image: url("/bg-pattern-top.f25f38c9.svg"), url("/bg-pattern-bottom.11e7f7ba.svg");
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: 18px;
+  color: #333;
+}
+
+.card {
+  background: white;
+  border-radius: 20px;
+  box-shadow: -2px 14px 124px -26px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: -2px 14px 124px -26px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: -2px 14px 124px -26px rgba(0, 0, 0, 0.4);
+}
+
+.card-background {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.card-top {
+  display: grid;
+  justify-content: center;
+  grid-gap: 15px;
+  padding: 1.7rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+.card-top img {
+  justify-self: center;
+  border-radius: 50%;
+  border: 5px solid white;
+  margin-top: -90px;
+  background: white;
+}
+
+.user-name {
+  align-self: center;
+}
+.user-name h2 {
+  font-weight: 700;
+  display: inline-block;
+}
+.user-name h2 .user-age {
+  margin-left: 3px;
+  font-weight: 400;
+  color: #969696;
+}
+
+.user-city {
+  font-size: 0.95rem;
+  color: #969696;
+  justify-self: center;
+}
+
+.card-bottom {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-content: center;
+  justify-items: center;
+  grid-gap: 10px;
+  text-align: center;
+  padding: 2rem;
+}
+.card-bottom h3 {
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+.card-bottom span {
+  color: #969696;
+  font-size: 0.7rem;
+  letter-spacing: 2px;
+}
+
+/*# sourceMappingURL=/styles.5c32a3d8.css.map */
