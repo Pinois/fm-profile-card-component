@@ -8,8 +8,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [pnwa-fm-profile-card-component.netlify.app](pnwa-fm-profile-card-component.netlify.app)
+-   Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-WZYA4-33x](https://www.frontendmentor.io/solutions/profile-card-component-WZYA4-33x)
+-   Live Site URL: [pnwa-fm-profile-card-component.netlify.app](https://pnwa-fm-profile-card-component.netlify.app)
 
 ## Author
 
